@@ -2,7 +2,7 @@
 	"name": "cocoscreator",
 	"description": "",
 	"version": "0.0.1",
-	"publisher": "chukong",
+	"publisher": "chukong technology",
 	"engines": {
 		"vscode": "^0.10.6"
 	},
